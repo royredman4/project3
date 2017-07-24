@@ -3,6 +3,8 @@
 
 #include "sdes.hh"
 
+#include <climits>
+
 int main() {
 
   Rubric r;
