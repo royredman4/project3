@@ -1,7 +1,9 @@
 # Project 3 - S-DES Cipher
 
-Group members:
+Group Members for this project:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Roy Redman IV: royredman4@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+Johnal Leifsson: johnal@csu.fullerton.edu
+
+Eric Abbott: ericabbott@csu.fullerton.edu
